@@ -2,16 +2,16 @@
   "name": "1",
   "description": "",
   "main": "index.js",
-  "homepage": "https://VitenFra.github.io/goit-js-hw-09",
+  "homepage": "https://VitenFra.github.io/goit-js-hw-10",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VitenFra/goit-js-hw-09.git"
+    "url": "git+https://github.com/VitenFra/goit-js-hw-10.git"
   },
   "author": "",
   "license": "ISC",
